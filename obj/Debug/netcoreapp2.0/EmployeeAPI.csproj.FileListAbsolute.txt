@@ -1,0 +1,11 @@
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.0\EmployeeAPI.deps.json
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.0\EmployeeAPI.runtimeconfig.json
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.0\EmployeeAPI.runtimeconfig.dev.json
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.0\EmployeeAPI.dll
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.0\EmployeeAPI.pdb
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.csprojResolveAssemblyReference.cache
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.AssemblyInfo.cs
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.dll
+C:\StackVMData\AspNet_SQL_Docker_Linux\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.0\EmployeeAPI.pdb
